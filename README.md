@@ -1,11 +1,5 @@
-# STATIC
+SEO Implementation:
 
-**This directory is not required, you can delete it if you don't want to use it.**
-
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+1: Use of LSI keyword in title tag, Description tag and Header Tag = {recipes with picture, recipes for dinner, easy comfort recipe, winter comfort recipe, healthy recipes, recipes for kids }
+2 : Link Building : Internal Link --->  "Get Recipe" on Recipes Page
+                    External Link ----> "Register Now" on events page . It will direct to event website. But as I no actual link I have used #.
